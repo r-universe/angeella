@@ -8,3 +8,6 @@
 [submodule "powerPLS"]
 	path = powerPLS
 	url = https://github.com/angeella/powerpls
+[submodule "quasar"]
+	path = quasar
+	url = https://github.com/angeella/quasar
