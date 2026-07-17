@@ -5,6 +5,9 @@
 [submodule "pARI"]
 	path = pARI
 	url = https://github.com/angeella/pari
+[submodule "pecora"]
+	path = pecora
+	url = https://github.com/cran/pecora
 [submodule "powerPLS"]
 	path = powerPLS
 	url = https://github.com/angeella/powerpls
